@@ -1,5 +1,6 @@
 # Confluence-External-Link-Updater
 Searchs and replaces broken external links on confluence using confluence API
+
 https://atlassian-python-api.readthedocs.io/
 
 I was tasked with replacing broken links on our departmenet confluence during my internship. After some googling I found there is no free confluence function for this when hosting confluence on cloud, and API seems to be the most effective solution.
